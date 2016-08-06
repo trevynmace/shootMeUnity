@@ -1,0 +1,12 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Shoot Me, I'm A Deer.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GenerateDeer.cs">
+    <Files>
+      <File FileName="Assets\GenerateDeer.cs" Line="52" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
