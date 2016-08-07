@@ -72,6 +72,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\DeerQuality.cs" />
     <Compile Include="Assets\GenerateDeer.cs" />
   </ItemGroup>
   <ItemGroup>
